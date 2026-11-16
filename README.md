@@ -2,7 +2,7 @@
 
 A mobile-first fitness companion: build workout routines, log sets with a rest timer, track water, macros and vitals, and watch weekly volume, lift progression and personal records in charts. It installs as an app and works with no connection.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://pulsecare-148.netlify.app
 
 ![Today screen on a phone](docs/screenshots/today-mobile.png)
 
